@@ -1,5 +1,5 @@
 {
-  "name": "@havesource/cordova-plugin-push",
+  "name": "@equipapp/cordova-plugin-push",
   "version": "3.0.2",
   "description": "Register and receive push notifications.",
   "scripts": {
@@ -57,7 +57,7 @@
   },
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "@havesource/cordova-plugin-push",
+    "id": "@equipapp/cordova-plugin-push",
     "platforms": [
       "ios",
       "android",
